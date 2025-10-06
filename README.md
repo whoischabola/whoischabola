@@ -1,4 +1,5 @@
 ## Hi there 👋
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBtNGtoYmRmZHdsZzJlMmp5aWQxc3lmZDhvNTc2YnBlamZndnZicSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/povenlBAIz14s/giphy.gif
 
 <!--
 **whoischabola/whoischabola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">A passionate</h3>
+<h3 align="center">A passionate developer!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
